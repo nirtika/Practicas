@@ -1,13 +1,13 @@
-# Mis Prácticas  (ISAM) 
+## Mis Prácticas  (ISAM) 
     
-  [JavaScript, HTML y CSS]
-* [Construcción de Servicios y Aplicaciones Audiovisuales en Internet](https://nirtika.github.io/2020-2021-CSAAI-Practicas/)
+### [Construcción de Servicios y Aplicaciones Audiovisuales en Internet](https://nirtika.github.io/2020-2021-CSAAI-Practicas/)
+** JavaScript, HTML y CSS 
 
-  [Python]
-* [Protocolos para la Transmisión de Audio y Vídeo en Internet](https://github.com/nirtika/PTAVI)
+### [Protocolos para la Transmisión de Audio y Vídeo en Internet](https://github.com/nirtika/PTAVI)
+** Python
 
-  [Node.js, JavaScript, HTML y CSS]
-* [Laboratorio de Tecnologías Audiovisuales en la Web](https://github.com/nirtika/LTAW-Practicas)
+### [Laboratorio de Tecnologías Audiovisuales en la Web](https://github.com/nirtika/LTAW-Practicas)
+**  Node.js, JavaScript, HTML y CSS
 
-  [JavaScript, HTML, CSS]
-* [Gráficos y Visualización en 3D ](https://nirtika.github.io/ISAM_3D/)
+### [Gráficos y Visualización en 3D ](https://nirtika.github.io/ISAM_3D/)
+**  JavaScript, HTML, CSS

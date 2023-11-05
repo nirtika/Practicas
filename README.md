@@ -1,6 +1,6 @@
 # Mis Prácticas  (ISAM) 
-
- [JavaScript, HTML y CSS]
+    
+  [JavaScript, HTML y CSS]
 * [Construcción de Servicios y Aplicaciones Audiovisuales en Internet](https://nirtika.github.io/2020-2021-CSAAI-Practicas/)
 
   [Python]
